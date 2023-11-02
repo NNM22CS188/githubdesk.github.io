@@ -1,0 +1,21 @@
+div{
+    text-align: center;
+    align-items: center;
+    margin-top: 250px;
+}
+button{
+    background-color: black;
+    color: rgb(211, 163, 211);
+}
+input{
+    background-color: black;
+    color: rgb(211, 163, 211);
+
+    
+}
+body {
+    background-image: url('pexels-andre-furtado-1162251.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
